@@ -1,3 +1,3 @@
 <script>
-  window.location="/story/index.html";
+  window.location="https://jhoefs.github.io/story/index.html";
 </script>
