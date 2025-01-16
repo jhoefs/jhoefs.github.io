@@ -1,2 +1,1 @@
-# jhoefs.github.io
-Peace Patrol Page butthole
+<meta http-equiv="refresh" content="0" url="/story/index.html" />
