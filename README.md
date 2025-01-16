@@ -1,1 +1,3 @@
-<meta http-equiv="refresh" content="0" url="/story/index.html" />
+<script>
+  window.location="/story/index.html";
+</script>
