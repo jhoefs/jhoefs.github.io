@@ -1,3 +1,3 @@
 <script>
-  window.location="https://jhoefs.github.io/pp/index.html";
+  window.location="https://peace-patrol.github.io/pp/index.html";
 </script>
